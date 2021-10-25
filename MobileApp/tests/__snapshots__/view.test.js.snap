@@ -1,0 +1,198 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Matches default followers screen snapshot 1`] = `
+<DocumentFragment>
+  <rctsafeareaview
+    style="flex: 1; background-color: rgb(214, 220, 231); justify-content: center; align-items: center;"
+  >
+    <rctscrollview
+      contentcontainerstyle="[object Object]"
+      data="[object Object]"
+      initialnumtorender="10"
+      maxtorenderperbatch="10"
+      scrolleventthrottle="50"
+      stickyheaderindices=""
+      updatecellsbatchingperiod="50"
+      viewabilityconfigcallbackpairs=""
+      windowsize="21"
+    >
+      <view>
+        <view>
+          <rctsafeareaview
+            style="background-color: rgb(243, 227, 194); flex-direction: column; margin-bottom: 5px; margin-top: 5px;"
+          >
+            <text
+              style="color: rgb(61, 50, 45); font-size: 18px;"
+            >
+              Name:Loading
+            </text>
+            <text
+              style="color: rgb(61, 50, 45); font-size: 18px;"
+            >
+              Username:Loading
+            </text>
+          </rctsafeareaview>
+        </view>
+      </view>
+    </rctscrollview>
+  </rctsafeareaview>
+</DocumentFragment>
+`;
+
+exports[`Matches default following screen snapshot 1`] = `
+<DocumentFragment>
+  <rctsafeareaview
+    style="flex: 1; background-color: rgb(214, 220, 231); justify-content: center; align-items: center;"
+  >
+    <rctscrollview
+      contentcontainerstyle="[object Object]"
+      data="[object Object]"
+      initialnumtorender="10"
+      maxtorenderperbatch="10"
+      scrolleventthrottle="50"
+      stickyheaderindices=""
+      updatecellsbatchingperiod="50"
+      viewabilityconfigcallbackpairs=""
+      windowsize="21"
+    >
+      <view>
+        <view>
+          <rctsafeareaview
+            style="background-color: rgb(243, 227, 194); flex-direction: column; margin-bottom: 5px; margin-top: 5px;"
+          >
+            <text
+              style="color: rgb(61, 50, 45); font-size: 18px;"
+            >
+              Name:Loading
+            </text>
+            <text
+              style="color: rgb(61, 50, 45); font-size: 18px;"
+            >
+              Username:Loading
+            </text>
+          </rctsafeareaview>
+        </view>
+      </view>
+    </rctscrollview>
+  </rctsafeareaview>
+</DocumentFragment>
+`;
+
+exports[`Matches default profile screen snapshot 1`] = `
+<DocumentFragment>
+  <rctsafeareaview
+    style="flex: 1; background-color: rgb(214, 220, 231); justify-content: center; align-items: center;"
+  >
+    <rctscrollview
+      contentcontainerstyle="[object Object]"
+    >
+      <view>
+        <text
+          style="color: rgb(61, 50, 45); font-size: 18px;"
+        >
+          Name
+        </text>
+        <text
+          style="color: rgb(61, 50, 45); font-size: 18px;"
+        >
+          Username: Loading
+        </text>
+        <text
+          style="color: rgb(61, 50, 45); font-size: 18px;"
+        >
+          Bio: Loading
+        </text>
+        <text
+          style="color: rgb(61, 50, 45); font-size: 18px;"
+        >
+          Website: Loading
+        </text>
+        <text
+          style="color: rgb(61, 50, 45); font-size: 18px;"
+        >
+          Email: Loading
+        </text>
+        <view
+          focusable="true"
+          style="opacity: 1;"
+        >
+          <text
+            style="color: rgb(56, 41, 215); font-size: 18px;"
+          >
+            x repos
+          </text>
+        </view>
+        <view
+          focusable="true"
+          style="opacity: 1;"
+        >
+          <text
+            style="color: rgb(56, 41, 215); font-size: 18px;"
+          >
+            Followers: x
+          </text>
+        </view>
+        <view
+          focusable="true"
+          style="opacity: 1;"
+        >
+          <text
+            style="color: rgb(56, 41, 215); font-size: 18px;"
+          >
+            Following: x
+          </text>
+        </view>
+        <text
+          style="color: rgb(61, 50, 45); font-size: 18px;"
+        >
+          Creation date: Loading
+        </text>
+      </view>
+    </rctscrollview>
+  </rctsafeareaview>
+</DocumentFragment>
+`;
+
+exports[`Matches default repositories screen snapshot 1`] = `
+<DocumentFragment>
+  <rctsafeareaview
+    style="flex: 1; background-color: rgb(214, 220, 231); justify-content: center; align-items: center;"
+  >
+    <rctscrollview
+      contentcontainerstyle="[object Object]"
+      data="[object Object]"
+      initialnumtorender="10"
+      maxtorenderperbatch="10"
+      scrolleventthrottle="50"
+      stickyheaderindices=""
+      updatecellsbatchingperiod="50"
+      viewabilityconfigcallbackpairs=""
+      windowsize="21"
+    >
+      <view>
+        <view>
+          <rctsafeareaview
+            style="background-color: rgb(243, 227, 194); flex-direction: column; margin-bottom: 5px; margin-top: 5px;"
+          >
+            <text
+              style="color: rgb(61, 50, 45); font-size: 18px;"
+            >
+              Repo name:Loading
+            </text>
+            <text
+              style="color: rgb(61, 50, 45); font-size: 18px;"
+            >
+              Username:Loading
+            </text>
+            <text
+              style="color: rgb(61, 50, 45); font-size: 18px;"
+            >
+              Description:Loading
+            </text>
+          </rctsafeareaview>
+        </view>
+      </view>
+    </rctscrollview>
+  </rctsafeareaview>
+</DocumentFragment>
+`;

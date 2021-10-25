@@ -1,0 +1,429 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Matches followers screen under error snapshot 1`] = `
+<DocumentFragment>
+  <rctsafeareaview
+    style="flex: 1; background-color: rgb(214, 220, 231); justify-content: center; align-items: center;"
+  >
+    <text>
+      Not Found
+    </text>
+  </rctsafeareaview>
+</DocumentFragment>
+`;
+
+exports[`Matches following screen under error snapshot 1`] = `
+<DocumentFragment>
+  <rctsafeareaview
+    style="flex: 1; background-color: rgb(214, 220, 231); justify-content: center; align-items: center;"
+  >
+    <text>
+      Not Found
+    </text>
+  </rctsafeareaview>
+</DocumentFragment>
+`;
+
+exports[`Matches loaded followers screen snapshot 1`] = `
+<DocumentFragment>
+  <rctsafeareaview
+    style="flex: 1; background-color: rgb(214, 220, 231); justify-content: center; align-items: center;"
+  >
+    <rctscrollview
+      contentcontainerstyle="[object Object]"
+      data="[object Object],[object Object]"
+      initialnumtorender="10"
+      maxtorenderperbatch="10"
+      scrolleventthrottle="50"
+      stickyheaderindices=""
+      updatecellsbatchingperiod="50"
+      viewabilityconfigcallbackpairs=""
+      windowsize="21"
+    >
+      <view>
+        <view>
+          <rctsafeareaview
+            style="background-color: rgb(243, 227, 194); flex-direction: row; margin-bottom: 5px; margin-top: 5px;"
+          >
+            <img
+              source="[object Object]"
+              style="width: 80px; height: 80px; margin-top: 5px; margin-bottom: 5px; margin-left: 5px;"
+            />
+            <rctsafeareaview
+              style="background-color: rgb(243, 227, 194); flex-direction: column; margin-bottom: 5px; margin-top: 5px;"
+            >
+              <text
+                style="color: rgb(61, 50, 45); font-size: 18px;"
+              >
+                Name:Max
+              </text>
+              <view
+                focusable="true"
+                style="opacity: 1;"
+              >
+                <text
+                  style="color: rgb(42, 104, 58); font-size: 18px;"
+                >
+                  Username:max2
+                </text>
+              </view>
+            </rctsafeareaview>
+          </rctsafeareaview>
+        </view>
+        <view>
+          <rctsafeareaview
+            style="background-color: rgb(243, 227, 194); flex-direction: row; margin-bottom: 5px; margin-top: 5px;"
+          >
+            <img
+              source="[object Object]"
+              style="width: 80px; height: 80px; margin-top: 5px; margin-bottom: 5px; margin-left: 5px;"
+            />
+            <rctsafeareaview
+              style="background-color: rgb(243, 227, 194); flex-direction: column; margin-bottom: 5px; margin-top: 5px;"
+            >
+              <text
+                style="color: rgb(61, 50, 45); font-size: 18px;"
+              >
+                Name:Min
+              </text>
+              <view
+                focusable="true"
+                style="opacity: 1;"
+              >
+                <text
+                  style="color: rgb(42, 104, 58); font-size: 18px;"
+                >
+                  Username:min2
+                </text>
+              </view>
+            </rctsafeareaview>
+          </rctsafeareaview>
+        </view>
+        <view
+          style="height: 0px;"
+        />
+      </view>
+    </rctscrollview>
+  </rctsafeareaview>
+</DocumentFragment>
+`;
+
+exports[`Matches loaded following screen snapshot 1`] = `
+<DocumentFragment>
+  <rctsafeareaview
+    style="flex: 1; background-color: rgb(214, 220, 231); justify-content: center; align-items: center;"
+  >
+    <rctscrollview
+      contentcontainerstyle="[object Object]"
+      data="[object Object],[object Object],[object Object]"
+      initialnumtorender="10"
+      maxtorenderperbatch="10"
+      scrolleventthrottle="50"
+      stickyheaderindices=""
+      updatecellsbatchingperiod="50"
+      viewabilityconfigcallbackpairs=""
+      windowsize="21"
+    >
+      <view>
+        <view>
+          <rctsafeareaview
+            style="background-color: rgb(243, 227, 194); flex-direction: row; margin-bottom: 5px; margin-top: 5px;"
+          >
+            <img
+              source="[object Object]"
+              style="width: 80px; height: 80px; margin-top: 5px; margin-bottom: 5px; margin-left: 5px;"
+            />
+            <rctsafeareaview
+              style="background-color: rgb(243, 227, 194); flex-direction: column; margin-bottom: 5px; margin-top: 5px;"
+            >
+              <text
+                style="color: rgb(61, 50, 45); font-size: 18px;"
+              >
+                Name:Tom
+              </text>
+              <view
+                focusable="true"
+                style="opacity: 1;"
+              >
+                <text
+                  style="color: rgb(42, 104, 58); font-size: 18px;"
+                >
+                  Username:tom2
+                </text>
+              </view>
+            </rctsafeareaview>
+          </rctsafeareaview>
+        </view>
+        <view>
+          <rctsafeareaview
+            style="background-color: rgb(243, 227, 194); flex-direction: row; margin-bottom: 5px; margin-top: 5px;"
+          >
+            <img
+              source="[object Object]"
+              style="width: 80px; height: 80px; margin-top: 5px; margin-bottom: 5px; margin-left: 5px;"
+            />
+            <rctsafeareaview
+              style="background-color: rgb(243, 227, 194); flex-direction: column; margin-bottom: 5px; margin-top: 5px;"
+            >
+              <text
+                style="color: rgb(61, 50, 45); font-size: 18px;"
+              >
+                Name:Jerry
+              </text>
+              <view
+                focusable="true"
+                style="opacity: 1;"
+              >
+                <text
+                  style="color: rgb(42, 104, 58); font-size: 18px;"
+                >
+                  Username:jerry2
+                </text>
+              </view>
+            </rctsafeareaview>
+          </rctsafeareaview>
+        </view>
+        <view>
+          <rctsafeareaview
+            style="background-color: rgb(243, 227, 194); flex-direction: row; margin-bottom: 5px; margin-top: 5px;"
+          >
+            <img
+              source="[object Object]"
+              style="width: 80px; height: 80px; margin-top: 5px; margin-bottom: 5px; margin-left: 5px;"
+            />
+            <rctsafeareaview
+              style="background-color: rgb(243, 227, 194); flex-direction: column; margin-bottom: 5px; margin-top: 5px;"
+            >
+              <text
+                style="color: rgb(61, 50, 45); font-size: 18px;"
+              >
+                Name:稚晖
+              </text>
+              <view
+                focusable="true"
+                style="opacity: 1;"
+              >
+                <text
+                  style="color: rgb(42, 104, 58); font-size: 18px;"
+                >
+                  Username:peng-zhihui
+                </text>
+              </view>
+            </rctsafeareaview>
+          </rctsafeareaview>
+        </view>
+        <view
+          style="height: 0px;"
+        />
+      </view>
+    </rctscrollview>
+  </rctsafeareaview>
+</DocumentFragment>
+`;
+
+exports[`Matches loaded profile screen snapshot 1`] = `
+<DocumentFragment>
+  <rctsafeareaview
+    style="flex: 1; background-color: rgb(214, 220, 231); justify-content: center; align-items: center;"
+  >
+    <rctscrollview
+      contentcontainerstyle="[object Object]"
+    >
+      <view>
+        <img
+          source="[object Object]"
+          style="width: 150px; height: 150px; margin-top: 20px; margin-bottom: 10px;"
+        />
+        <text
+          style="color: rgb(61, 50, 45); font-size: 18px;"
+        >
+          Jerry
+        </text>
+        <text
+          style="color: rgb(61, 50, 45); font-size: 18px;"
+        >
+          Username: xingyuq2
+        </text>
+        <text
+          style="color: rgb(61, 50, 45); font-size: 18px;"
+        >
+          Bio: Senior student
+        </text>
+        <text
+          style="color: rgb(61, 50, 45); font-size: 18px;"
+        >
+          Website: https://github.com/xingyuqiu2
+        </text>
+        <text
+          style="color: rgb(61, 50, 45); font-size: 18px;"
+        >
+          Email: xxx@gmail.com
+        </text>
+        <view
+          focusable="true"
+          style="opacity: 1;"
+        >
+          <text
+            style="color: rgb(56, 41, 215); font-size: 18px;"
+          >
+            6 repos
+          </text>
+        </view>
+        <view
+          focusable="true"
+          style="opacity: 1;"
+        >
+          <text
+            style="color: rgb(56, 41, 215); font-size: 18px;"
+          >
+            Followers: 4
+          </text>
+        </view>
+        <view
+          focusable="true"
+          style="opacity: 1;"
+        >
+          <text
+            style="color: rgb(56, 41, 215); font-size: 18px;"
+          >
+            Following: 5
+          </text>
+        </view>
+        <text
+          style="color: rgb(61, 50, 45); font-size: 18px;"
+        >
+          Creation date: 2018-09-04T01:11:54Z
+        </text>
+      </view>
+    </rctscrollview>
+  </rctsafeareaview>
+</DocumentFragment>
+`;
+
+exports[`Matches loaded repositories screen snapshot 1`] = `
+<DocumentFragment>
+  <rctsafeareaview
+    style="flex: 1; background-color: rgb(214, 220, 231); justify-content: center; align-items: center;"
+  >
+    <rctscrollview
+      contentcontainerstyle="[object Object]"
+      data="[object Object],[object Object],[object Object]"
+      initialnumtorender="10"
+      maxtorenderperbatch="10"
+      scrolleventthrottle="50"
+      stickyheaderindices=""
+      updatecellsbatchingperiod="50"
+      viewabilityconfigcallbackpairs=""
+      windowsize="21"
+    >
+      <view>
+        <view>
+          <rctsafeareaview
+            style="background-color: rgb(243, 227, 194); flex-direction: column; margin-bottom: 5px; margin-top: 5px;"
+          >
+            <text
+              style="color: rgb(142, 25, 18); font-size: 18px;"
+            >
+              Repo name:Lab1
+            </text>
+            <view
+              focusable="true"
+              style="opacity: 1;"
+            >
+              <text
+                style="color: rgb(113, 22, 116); font-size: 18px;"
+              >
+                Username:xyz
+              </text>
+            </view>
+            <text
+              style="color: rgb(61, 50, 45); font-size: 18px;"
+            >
+              Description:Lab 1 starter code.
+            </text>
+          </rctsafeareaview>
+        </view>
+        <view>
+          <rctsafeareaview
+            style="background-color: rgb(243, 227, 194); flex-direction: column; margin-bottom: 5px; margin-top: 5px;"
+          >
+            <text
+              style="color: rgb(142, 25, 18); font-size: 18px;"
+            >
+              Repo name:Lab2
+            </text>
+            <view
+              focusable="true"
+              style="opacity: 1;"
+            >
+              <text
+                style="color: rgb(113, 22, 116); font-size: 18px;"
+              >
+                Username:qwe
+              </text>
+            </view>
+            <text
+              style="color: rgb(61, 50, 45); font-size: 18px;"
+            >
+              Description:Lab2 code
+            </text>
+          </rctsafeareaview>
+        </view>
+        <view>
+          <rctsafeareaview
+            style="background-color: rgb(243, 227, 194); flex-direction: column; margin-bottom: 5px; margin-top: 5px;"
+          >
+            <text
+              style="color: rgb(142, 25, 18); font-size: 18px;"
+            >
+              Repo name:Lab3
+            </text>
+            <view
+              focusable="true"
+              style="opacity: 1;"
+            >
+              <text
+                style="color: rgb(113, 22, 116); font-size: 18px;"
+              >
+                Username:haha
+              </text>
+            </view>
+            <text
+              style="color: rgb(61, 50, 45); font-size: 18px;"
+            >
+              Description:Fall 2018 Lab3 starter code.
+            </text>
+          </rctsafeareaview>
+        </view>
+        <view
+          style="height: 0px;"
+        />
+      </view>
+    </rctscrollview>
+  </rctsafeareaview>
+</DocumentFragment>
+`;
+
+exports[`Matches profile screen under error snapshot 1`] = `
+<DocumentFragment>
+  <rctsafeareaview
+    style="flex: 1; background-color: rgb(214, 220, 231); justify-content: center; align-items: center;"
+  >
+    <text>
+      Not Found
+    </text>
+  </rctsafeareaview>
+</DocumentFragment>
+`;
+
+exports[`Matches repositories screen under error snapshot 1`] = `
+<DocumentFragment>
+  <rctsafeareaview
+    style="flex: 1; background-color: rgb(214, 220, 231); justify-content: center; align-items: center;"
+  >
+    <text>
+      Not Found
+    </text>
+  </rctsafeareaview>
+</DocumentFragment>
+`;
